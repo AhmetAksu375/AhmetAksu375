@@ -1,4 +1,4 @@
-Hi there! 👋
+# Hi there! 👋
 I'm Ahmet, a senior software engineering student at Isik University passionate about developing web applications with a focus on both frontend and backend. With a strong foundation in a variety of languages and tools, I love turning ideas into functional and user-friendly software solutions.
 
 ## 🔧 Technologies & Tools
